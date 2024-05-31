@@ -1,0 +1,108 @@
+
+*{
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+}
+
+
+
+
+
+
+body {
+display: flex;
+justify-content: space-around;
+    background-color:#F0F2F5;
+    align-items: center;
+    text-align: center;
+}
+.fb-heading{
+    width: 40%;
+}
+
+
+.main-div{
+    background-color: white;
+    height: 350px;
+    width: 400px;
+    margin-right: 220px;
+    margin-left:40px;
+    justify-content: center ;
+    align-items: center;
+    text-align: center;
+    border-radius: 15px;
+    box-shadow: 1px 1px 11px 1px rgba(0,0,0,0.37);
+margin-top: 70px;
+
+}
+input{ 
+
+    /* background-color: white; */
+    height: 40px;
+    width: 350px;
+    margin-top: 10px;
+    /* border-color: rgb(77, 77, 255); */
+    /* border: 1px blue; */
+    /* border: none; */
+border: 0.1px solid rgb(202, 202, 202);
+padding:15px;
+box-shadow: 1px 1px 11px 1px rgba(208, 208, 208, 0.37);
+border-radius: 5px;
+
+}
+
+button{
+
+color: alicesblue;
+font-size: 18px;
+    background-color:#1877F2;
+    height: 40px  ;
+    width: 350px;
+    margin-top: 5px;
+    border-color: white;
+    border-radius:10px ;
+    color: white;
+border-radius: 10px;
+
+
+
+
+
+
+}
+
+a{
+   padding-top: 122px;
+    height: 30px;
+    width: 200px;
+    color:  #0866FF  ;
+
+}
+
+
+.accout{
+
+    background-color :#36A420   ;
+    width: 70%;
+    height: 50px;
+}    
+
+
+h1{
+
+
+color: blue;
+height: 20px;
+width: 150px;
+font-size: 100px;
+padding: 30px;
+margin-top: 60px;
+margin-left: 10px;
+margin-right: 70px;
+padding-top: 50px
+
+}
+border{
+    margin-left: 5%;
+    border-top: #c7c7c7 solid 0.1px;width: 90%;
+}
+

@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.baap{
+    height: 87.5vh;
+    width: 100vw;
+    background-color: aqua;
+    display: flex;
+}
+.child1{
+    flex: 1;
+   background-color: orangered;
+}
+.child2{
+    flex: 2;
+    background-color: rgb(0, 30, 255);
+ }
+ .child3{
+    flex: 1;
+    background-color: rgb(157, 255, 0);
+ }
+ .header{
+    background-color: aqua;
+    flex: 1;
+
+    display: flex;
+    justify-content: space-between;
+ }
+.main2{
+    height: 80px;
+    display: flex;
+    flex-direction: column;
+    
+}
+.headerchild1{
+    height: 80px;
+    width:25vw;
+    background-color: rgb(233, 245, 10);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.fblogo{
+    height: 70px;
+    width: 80px;
+    background-color: black;
+    border-radius: 120px;
+}
+.inputforseacrh{
+    height: 70px;
+    width: 180px;
+    background-color: rgba(0, 0, 0, 0.213);
+    border-radius: 40px;
+
+}
+.headerchild2{
+    height: 80px;
+    width:50vw;
+    background-color: rgb(12, 190, 239);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.logo{
+       
+       height: 70px;
+       width: 40px;
+       background-color: black;
+
+}
+
+
+.headerchild3{
+    height: 80px;
+    width:25vw;
+    background-color: rgb(241, 35, 179);
+}
+
+
+
+.eee{
+         height: 100px;
+         width: 50px;
+         background-color:black;
+         border-radius: 80px;
+}
